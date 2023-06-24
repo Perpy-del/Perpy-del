@@ -21,6 +21,6 @@
 </h1>
 
 <div align="center">
-  <img src="./55537-girl-on-computer-with-idea.png" width="600" height="500"/>
+  <img src="./63487-programming-computer.png" width="600" height="500"/>
 </div>
 

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./dlf10_BROxHtztMy.gif" width="300"/>
+  <img src="./dlf10_BROxHtztMy.gif" width="240"/>
 </div>
 
 <div id="badges" align="center">
@@ -21,6 +21,6 @@
 </h1>
 
 <div align="center">
-  <img src="./55537-girl-on-computer-with-idea.png" width="600" height="300"/>
+  <img src="./55537-girl-on-computer-with-idea.png" width="600" height="500"/>
 </div>
 

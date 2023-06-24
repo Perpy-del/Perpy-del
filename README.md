@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./dlf10_BROxHtztMy.gif" width="100"/>
+  <img src="./dlf10_BROxHtztMy.gif" width="70"/>
   <h4>Perpetual Ogochukwu Meninwa</h4>
 </div>
 

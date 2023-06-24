@@ -67,3 +67,12 @@ I am a Full Stack/Cloud Engineer <img src="https://media.giphy.com/media/WUlplcM
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Perpy-del&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perpy-del&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
+- [Understanding OOP-Python](https://medium.com/@perpetualmeninwa/understanding-python-object-oriented-programming-oop-3bce2efff5a0)
+- [Outage Incident Report](https://medium.com/@perpetualmeninwa/postmortem-outage-incident-report-9964041310f1)
+- [Kiciti: The app for expectant mothers](https://medium.com/@perpetualmeninwa/kiciti-the-app-for-expectant-mothers-d1b378833dd8)
+- [What happens when you type Google.com](https://medium.com/@perpetualmeninwa/what-happens-when-you-type-google-com-ab25dff172e6)

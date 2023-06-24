@@ -65,3 +65,5 @@ I am a Full Stack/Cloud Engineer <img src="https://media.giphy.com/media/WUlplcM
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Perpy-del&theme=dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perpy-del)](https://github.com/anuraghazra/github-readme-stats)
